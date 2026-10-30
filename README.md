@@ -4,26 +4,16 @@
 
 Index of repositories related to OSINT (Open Source Intelligence), geopolitical analysis, situational awareness, and civilian preparedness in Israel.
 
-*Last updated: 2026-03-25*
+**Last Updated:** October 2026
 
 ---
 
 ## OSINT & Intelligence Analysis
 
-### Claude-OSINT-Investigator
-Template for using Claude Code for OSINT-led investigations
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--OSINT--Investigator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-OSINT-Investigator)
-
 ### Iran-Israel-War-2026-OSINT-Data
 Structuring the data footprint of the Iranian aerial warfare attacks on Israel
 
 [![GitHub](https://img.shields.io/badge/GitHub-Iran--Israel--War--2026--OSINT--Data-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data)
-
-### Iran-Israel-War-OSINT
-Retrospectively analyse signals of war ahead of the Iran-Israel conflict
-
-[![GitHub](https://img.shields.io/badge/GitHub-Iran--Israel--War--OSINT-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Iran-Israel-War-OSINT)
 
 ### OSINT-Missile-Intelligence-Agent
 Snap reports about causes and quantitative info about hostile missile launches
@@ -39,20 +29,10 @@ Real-time global intelligence dashboard with geopolitical monitoring
 
 ## Geopolitical Analysis & AI
 
-### Claude-Georeaction-Researcher
-Claude template for analysing global sentiment/reaction to a geopolitical issue
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Georeaction--Researcher-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Georeaction-Researcher)
-
 ### Geopolitical-Analysis-System-Prompts
 System prompts for geopolitical related AI assistants and tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-Geopolitical--Analysis--System--Prompts-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts)
-
-### Israel-GeoInsights
-Using LLMs to analyse geopolitical developments in Israel & the Middle East
-
-[![GitHub](https://img.shields.io/badge/GitHub-Israel--GeoInsights-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Israel-GeoInsights)
 
 ### Israel-SITREP-Generation-Prompts
 Prompts to generate situational reports (SITREPs) for Israel & the Middle East
@@ -108,16 +88,6 @@ Microservices Docker stack for Pikud HaOref red alert monitoring
 
 [![GitHub](https://img.shields.io/badge/GitHub-Red--Alert--Monitoring--Stack-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Monitoring-Stack)
 
-### Red-Alert-Pushover
-Pushover notifications for large-scale Pikud HaOref alert events
-
-[![GitHub](https://img.shields.io/badge/GitHub-Red--Alert--Pushover-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Pushover)
-
-### Red-Alert-Telegram-Bot
-On-demand situational intelligence Telegram bot for Pikud HaOref alerts
-
-[![GitHub](https://img.shields.io/badge/GitHub-Red--Alert--Telegram--Bot-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Telegram-Bot)
-
 ### Red-Alert-Warning-Panel
 Red Alert warning UI design
 
@@ -165,11 +135,6 @@ MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren
 ---
 
 ## Civilian Preparedness
-
-### Claude-Preparedness-Planner
-Claude workspace for preparedness planning (template)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Preparedness--Planner-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Preparedness-Planner)
 
 ### HFC-Android-Config-Guide
 Non-official Home Front Command Android app config settings guides
